@@ -2,8 +2,8 @@
 
 
 # Dependencies : 
-pip install speedtest-cli
-pip install PyQt5
+1. pip install speedtest-cli
+2. pip install PyQt5
 
 ![Alt text](speedtest.png?raw=true "Title")
 
